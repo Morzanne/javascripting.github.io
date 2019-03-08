@@ -3,7 +3,7 @@
 function myFunction(){
     i=0;
     b="#";
-    for (i=0;i !=7; i++){
+    for (i=0;i !=8; i++){
         console.log(b.repeat(i));
 }
 }
